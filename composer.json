@@ -1,0 +1,12 @@
+{
+    "name": "basic-app/service",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Service\\": ""
+        }
+    },
+    "require": {
+        "psr/log": "*"
+    }
+}
